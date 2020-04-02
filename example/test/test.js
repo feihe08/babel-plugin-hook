@@ -1,7 +1,7 @@
 
 function foo() {
   const $name = 'foo'
-  $name = 'foo1'
+  $name = $name + '111'
 }
 
 function bar() {

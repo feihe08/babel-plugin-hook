@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-hook",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "index.js",
   "repository": "git@github.com:hefei00/babel-plugin-hook.git",
   "author": "hefei <hefei00@outlook.com>",

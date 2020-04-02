@@ -23,7 +23,7 @@ function getScopeUid(path) {
 
 function shouleApply(key, options) {
   const prefix = options && options.prefix || '$'
-  return key.startsWith(prefix);
+  return (key || '').startsWith(prefix);
 }
 
 module.exports = function(api, opotions, filePath) {
