@@ -1,0 +1,10 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "hefei",
+  "license": "MIT",
+  "dependencies": {
+    "babel-plugin-hook": "^0.0.3"
+  }
+}
